@@ -19,8 +19,8 @@ The following **bonus** features are implemented:
 - [ ] User can pull to refresh. (1pt)
 - [ ] User can load past posts infinitely. (2pts)
 
-## Video Walkthrough
+## App Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/Ir3uTqqOPK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="http://g.recordit.co/Ir3uTqqOPK.gif" width=250><br>
